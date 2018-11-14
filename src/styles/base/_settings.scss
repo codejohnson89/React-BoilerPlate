@@ -1,0 +1,40 @@
+//colors
+$black: #000;
+$white: #fff;
+
+
+////////////////////////////////////////////////
+// DEFAULT FONTS 
+////////////////////////////////////////////////
+
+//Serif Fonts
+////////////////////////////////////////////////
+@import url('https://fonts.googleapis.com/css?family=Cinzel|EB+Garamond|Merriweather|Playfair+Display|Roboto+Slab');
+
+$Merriweather: 'Merriweather', serif;
+$Roboto: 'Roboto Slab', serif;
+$Playfair: 'Playfair Display', serif;
+$Cinzel: 'Cinzel', serif;
+$Garamond: 'EB Garamond', serif;
+
+//Sans Serif Fonts
+/////////////////////////////////////////////////
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat|Open+Sans|Oswald|PT+Sans|Raleway|Source+Sans+Pro');
+
+$OpenSans: 'Open Sans', sans-serif;
+$Lato: 'Lato', sans-serif;
+$Montserrat: 'Montserrat', sans-serif;
+$SourceSansPro: 'Source Sans Pro', sans-serif;
+$Oswald: 'Oswald', sans-serif;
+$Raleway: 'Raleway', sans-serif;
+$PTsans: 'PT Sans', sans-serif;
+
+
+/////////////////////////////////////////////////
+//FONT SIZES
+/////////////////////////////////////////////////
+$xsFont: 9px;
+$smFont: 12px;
+$mdFont: 16px;
+$lgFont: 22px;
+$xlFont: 28px;
